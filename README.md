@@ -38,8 +38,6 @@ Here are some of my recent open-source repos that showcase problem-solving skill
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobappdeveloper92&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobappdeveloper92&layout=compact&theme=radical)
 
-*(Replace `yourusername` with your actual GitHub username)*
-
 ---
 
 ### 🌱 Currently Learning / Exploring
